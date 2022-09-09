@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/2019/eventListener.xsd">
+	<import>
+		<!-- Post -->
+		<eventlistener name="trackerPost">
+			<eventclassname>wbb\data\post\PostAction</eventclassname>
+			<eventname>finalizeAction</eventname>
+			<environment>user</environment>
+			<listenerclassname>wbb\system\event\listener\TrackerPostListener</listenerclassname>
+		</eventlistener>
+		
+		<!-- Thread -->
+		<eventlistener name="trackerThread">
+			<eventclassname>wbb\data\thread\ThreadAction</eventclassname>
+			<eventname>finalizeAction</eventname>
+			<environment>user</environment>
+			<listenerclassname>wbb\system\event\listener\TrackerThreadListener</listenerclassname>
+		</eventlistener>
+	</import>
+</data>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/2019/language.xsd" languagecode="en" languagename="English" countrycode="gb">
+	<category name="wcf.uztracker">
+		<item name="wcf.uztracker.config.wlwbbPost"><![CDATA[Posts]]></item>
+		<item name="wcf.uztracker.config.wlwbbThread"><![CDATA[Threads]]></item>
+		<item name="wcf.uztracker.description.post.add"><![CDATA[Post created]]></item>
+		<item name="wcf.uztracker.description.post.addDisabled"><![CDATA[Post created (disabled)]]></item>
+		<item name="wcf.uztracker.description.post.close"><![CDATA[Post closed]]></item>
+		<item name="wcf.uztracker.description.post.copy"><![CDATA[Post copied into thread]]></item>
+		<item name="wcf.uztracker.description.post.copy.progress"><![CDATA[Post are being copied into thread]]></item>
+		<item name="wcf.uztracker.description.post.delete"><![CDATA[Post permanently deleted]]></item>
+		<item name="wcf.uztracker.description.post.disable"><![CDATA[Post disabled]]></item>
+		<item name="wcf.uztracker.description.post.enable"><![CDATA[Post enabled]]></item>
+		<item name="wcf.uztracker.description.post.enable.time"><![CDATA[Post enabled (date)]]></item>
+		<item name="wcf.uztracker.description.post.merge"><![CDATA[Posts merged]]></item>
+		<item name="wcf.uztracker.description.post.move"><![CDATA[Post moved into thread]]></item>
+		<item name="wcf.uztracker.description.post.open"><![CDATA[Post opened]]></item>
+		<item name="wcf.uztracker.description.post.restore"><![CDATA[Post restored]]></item>
+		<item name="wcf.uztracker.description.post.trash"><![CDATA[Post deleted (trash bin)]]></item>
+		<item name="wcf.uztracker.description.post.update"><![CDATA[Post edited]]></item>
+		
+		<item name="wcf.uztracker.description.thread.add"><![CDATA[Thread created]]></item>
+		<item name="wcf.uztracker.description.thread.addDisabled"><![CDATA[Thread created (disabled)]]></item>
+		<item name="wcf.uztracker.description.thread.bestAnswer"><![CDATA[Best answer marked]]></item>
+		<item name="wcf.uztracker.description.thread.close"><![CDATA[Thread closed]]></item>
+		<item name="wcf.uztracker.description.thread.delete"><![CDATA[Thread permanently deleted]]></item>
+		<item name="wcf.uztracker.description.thread.disable"><![CDATA[Thread disabled]]></item>
+		<item name="wcf.uztracker.description.thread.done"><![CDATA[Thread marked as done]]></item>
+		<item name="wcf.uztracker.description.thread.enable"><![CDATA[Thread enabled]]></item>
+		<item name="wcf.uztracker.description.thread.merge"><![CDATA[Threads merged]]></item>
+		<item name="wcf.uztracker.description.thread.move"><![CDATA[Thread moved]]></item>
+		<item name="wcf.uztracker.description.thread.open"><![CDATA[Thread opened]]></item>
+		<item name="wcf.uztracker.description.thread.restore"><![CDATA[Thread restored]]></item>
+		<item name="wcf.uztracker.description.thread.scrape"><![CDATA[Thread undone sticky]]></item>
+		<item name="wcf.uztracker.description.thread.sticky"><![CDATA[Thread made sticky]]></item>
+		<item name="wcf.uztracker.description.thread.trash"><![CDATA[Thread deleted (trash bin)]]></item>
+		<item name="wcf.uztracker.description.thread.undone"><![CDATA[Thread marked as undone]]></item>
+		<item name="wcf.uztracker.description.thread.update"><![CDATA[Thread edited]]></item>
+		<item name="wcf.uztracker.header.type.wlwbb"><![CDATA[Forum]]></item>
+		
+		<item name="wcf.uztracker.page.board"><![CDATA[Board]]></item>
+		<item name="wcf.uztracker.page.rssFeedBoard"><![CDATA[RSS Board]]></item>
+		<item name="wcf.uztracker.page.thread"><![CDATA[Thread]]></item>
+		
+		<item name="wcf.uztracker.type.wlwbb"><![CDATA[Forum]]></item>
+	</category>
+</language>
